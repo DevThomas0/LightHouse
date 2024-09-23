@@ -1,4 +1,3 @@
-/* Fichier CSS non minifié avec des styles redondants */
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #fafafa;
@@ -12,10 +11,10 @@ header>img {
     height: 100px;
 }
 
-.img-classifier {
+.img-classifier>img {
     display: block;
-    width: 25%;
-    height: 25%;
+    width: 10%;
+    height: 20%;
 }
 
 h1, h2 {
